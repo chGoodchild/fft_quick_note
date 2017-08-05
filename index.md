@@ -12,3 +12,7 @@ Thanks for explaining the FFT!    :-)
 
 layout: default
 comments: true
+
+% if page.comments %
+disqus.html
+% endif %

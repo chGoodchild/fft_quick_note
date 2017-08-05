@@ -10,9 +10,4 @@ Could it be that you intended to write something similar to equation 13 rather t
 
 Thanks for explaining the FFT!    :-)
 
-layout: default
-comments: true
-
-% if page.comments %
-disqus.html
-% endif %
+{% include disqus.html %}

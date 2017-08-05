@@ -5,5 +5,5 @@
 Here I want to try out this simple way of creating a web page and point out a possible mistake in the explanation:
 ![Image](image.png)
 
-![Image](picture1.png)
+![Image](picture2.png)
 

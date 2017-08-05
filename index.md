@@ -1,4 +1,4 @@
-## Splitting up a DFT into two smaller DFTs recursively to produce an FFT
+## Splitting up a DFT into two smaller DFTs
 
 @jakevdp wrote a [great explanation](http://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/) as to how the FFT algorithm works.
 

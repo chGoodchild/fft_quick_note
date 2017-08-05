@@ -9,3 +9,5 @@ Could it be that you intended to write something similar to equation 13 rather t
 ![Image](picture2.png)
 
 Thanks for explaining the FFT!    :-)
+
+{% include disqus.html %}
